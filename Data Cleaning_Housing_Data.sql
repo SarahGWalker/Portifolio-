@@ -3,7 +3,7 @@
 Select * 
 From PortfolioProject.dbo.NashvilleHousing
 
-
+--this is a test to see how git tracks changes in the file.
 -----------------------------------------------------------------------------------
 
 --Standardize Date Format
